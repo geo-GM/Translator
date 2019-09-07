@@ -1,3 +1,3 @@
 # Translator
 
-Translator is database for TranslateClient repository.
+Translator is XML database for TranslateClient repository.
